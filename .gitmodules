@@ -1,3 +1,6 @@
 [submodule "firstStep"]
 	path = firstStep
 	url = https://github.com/EdoardoCisco/firstStep.git
+[submodule "secondStep"]
+	path = secondStep
+	url = https://github.com/EdoardoCisco/secondStep.git
