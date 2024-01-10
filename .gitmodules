@@ -4,3 +4,6 @@
 [submodule "secondStep"]
 	path = secondStep
 	url = https://github.com/EdoardoCisco/secondStep.git
+[submodule "thirdStep-Recap"]
+	path = thirdStep-Recap
+	url = https://github.com/EdoardoCisco/thirdStep-Recap.git
