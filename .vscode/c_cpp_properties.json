@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/firstStep/keyword_spotting",
+                "~/tensorflow_src/tensorflow/lite/**",
+                "/home/edo/tensorflow_src/tensorflow/lite/**",
+                "/home/edo/tensorflow_src"
+            ],
+            "defines": [],
+            "compilerPath": "/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
