@@ -1,5 +1,8 @@
 {
+    "cortex-debug.gdbPath": "/usr/bin/gdb-multiarch",
+    "cortex-debug.openocdPath": "/usr/local/bin/openocd",
     "files.associations": {
-        "common.h": "c"
+        "common.h": "c",
+        "cstdint": "cpp"
     }
 }
